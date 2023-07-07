@@ -17,6 +17,7 @@
 saya fikir menaruh harapan kepada seseorang adalah hal yang salah, tapi itu memang benar 😌
 
 <!-- social link -->
+<!--
 ## 🙋‍♂️ Connect with me:
 <p align="left">
 <a href="https://www.tiktok.com/@oyy_gus"><img src="https://img.shields.io/badge/-tiktok-%230A0A0A.svg?&style=for-the-badge&logo=tiktok&logoColor=white"></a>
@@ -25,7 +26,7 @@ saya fikir menaruh harapan kepada seseorang adalah hal yang salah, tapi itu mema
 <a href="https://www.facebook.com/profile.php?id=100074979668113"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-0065E6?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/31zl4c4uw3jh2o6c3we6v34gzc4m"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/-spotify-1DD860?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 <a href="https://discord.gg/BtkfkGjJfN"><img alt="Discord" title="Join to my discord servers." src="https://img.shields.io/badge/-Join%20to%20my%20discord%20servers.-5265F7?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+</p-->
 
 <!-- github stats -->
 ## 📈 Github stats:
