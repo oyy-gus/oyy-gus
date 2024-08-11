@@ -16,11 +16,14 @@
   <!--link rel="icon" href="https://avatars.githubusercontent.com/u/97151655" /-->
   <style>
     body {
+      @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Poppins:wght@400;600&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+      
       background-image: url('image/background.png');
       background-size: cover;
       background-position: center;
       color: #fff;
-      font-family: Arial, sans-serif;
+      font-family: 'Poppins', sans-serif;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -44,8 +47,8 @@
     }
     
     .profile-container h1 {
-      font-family: Fantasy;
-      font-weight: bold;
+      font-family: 'Poppins', sans-serif;
+      font-weight: 800;
       color: white;
       text-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
     }
@@ -75,7 +78,7 @@
     .overlay-content a {
       color: #fff;
       text-decoration: none;
-      font-weight: bold;
+      font-weight: 800;
     }
     
     .overlay-content img {
@@ -93,32 +96,44 @@
       padding: 10px;
       cursor: pointer;
       margin-top: 10px;
-      border-radius: 20px;
+      border-radius: 8px;
       -webkit-tap-highlight-color: transparent;
     }
     
     .open-btn {
-      font-family: Fantasy;
-      background: #1C75BC;
+      font-family: 'Poppins', sans-serif;
+      background: rgba(0, 0, 0, 0.3);
       color: white;
-      border: none;
-      padding: 10px;
+      border: 2px solid #1C75BC;
+      width: 70%;
+      padding: 15px;
       cursor: pointer;
-      border-radius: 25px;
+      border-radius: 15px;
+      font-size: 16px;
       display: flex;
       align-items: center;
+      justify-content: center;
       margin-bottom: 10px;
-      box-shadow: -4px -4px 4px rgba(0, 0, 0, 0.2);
+      box-shadow: none;
       -webkit-tap-highlight-color: transparent;
     }
     
     .open-btn .fab {
-      margin-right: 10px;
+      margin-right: 5px;
     }
     
     .open-btn i {
-      font-size: 25px;
+      font-size: 21px;
     }
+    footer p {
+      font-size: 10px;
+    }
+    footer a {
+    color: #1C75BC;
+    font-weight: 600;
+    font-size: 10px;
+    text-decoration: none; 
+}
   </style>
 </head>
 
@@ -129,16 +144,16 @@
   </div>
   
   <button class="open-btn" onclick="openTikTokOverlay()">
-    <i class="fab fa-tiktok"></i> Kunjungi Profile TikTok
+    <i class="fab fa-tiktok"></i> TikTok
   </button>
   <button class="open-btn" onclick="openInstagramOverlay()">
-    <i class="fab fa-instagram"></i> Kunjungi Profile Instagram
+    <i class="fab fa-instagram"></i> Instagram
   </button>
   <button class="open-btn" onclick="openGitHubOverlay()">
-    <i class="fab fa-github"></i> Kunjungi Profile GitHub
+    <i class="fab fa-github"></i> GitHub
   </button>
   <button class="open-btn" onclick="openDiscordOverlay()">
-    <i class="fab fa-discord"></i> Kunjungi Profile Discord
+    <i class="fab fa-discord"></i> Discord
   </button>
   
   <div id="overlay-tiktok" class="overlay">
@@ -177,6 +192,11 @@
     </div>
   </div>
   
+  <footer>
+    <p>Build by 
+    <a href="https://github.com/oyy-gus" target="_blank">oyy-gus</a> | <a href="https://github.com/oyy-gus/oyy-gus/fork">Create your website</a></p>
+  </footer>
+  
   <script>
     function openTikTokOverlay() {
           document.getElementById("overlay-tiktok").style.display = "flex";
@@ -213,4 +233,4 @@
   <script src="https://kit.fontawesome.com/b423d98a73.js" crossorigin="anonymous"></script>
 </body>
 
-	</html>
+</html>
