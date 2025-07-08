@@ -1,3 +1,7 @@
+<p align="left">
+  <a href="#"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=oyy-gus" /></a>
+</p>
+
 <h1 align="center">🚀 Welcome to My Universe — I'm <span style="color:#8a2be2;">Guss</span> ⚡</h1>
 
 <p align="center">
