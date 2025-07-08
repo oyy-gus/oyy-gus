@@ -142,5 +142,5 @@ Jangan lupa follow, kasih ⭐ di repo favoritmu, dan yuk ngobrol bareng di Disco
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F51FF&height=100&section=footer"/>
 </p>
