@@ -78,6 +78,16 @@ Saya suka pernah ngoding sampai berakir di rumah sakit (**karena saya menjenguk 
 
 ---
 
+### 🤖 Davina Bot
+
+<p align="center">
+  <a href="https://top.gg/bot/1388527324542144563">
+    <img alt="Davina Karamoy on top.gg" src="https://top.gg/api/widget/1388527324542144563.svg" />
+  </a>
+</p>
+
+---
+
 ### 🧠 Fun Facts
 
 - 🤓 Pernah ngoding nonstop selama 12 jam hanya karena “seru banget”.
