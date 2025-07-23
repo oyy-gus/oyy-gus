@@ -117,7 +117,7 @@ Saya suka pernah ngoding sampai berakir di rumah sakit (**karena saya menjenguk 
 
 - [`🛠️ tiktok-downloader`](https://github.com/oyy-gus/tiktok-downloader) — Downloader TikTok no watermark.
 - [`🎨 oyy-gus.github.io`](https://oyy-gus.github.io) — Portofolio neon interaktif.
-- [`🤖 Davina Karamoy`](https://discord.com/api/oauth2/authorize?client_id=1388527324542144563&permissions=7679170698609&scope=applications.commands%20bot) — Bot discord yang di rancang untuk beberapa fungsionalitas.
+- [`🤖 Davina Karamoy`](https://discord.com/api/oauth2/authorize?client_id=1388527324542144563&permissions=8&scope=applications.commands%20bot) — Bot discord yang di rancang untuk beberapa fungsionalitas.
 
 ---
 
