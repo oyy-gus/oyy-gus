@@ -42,16 +42,6 @@
 
 ---
 
-### 🤖 Davina Bot
-
-<p align="center">
-  <a href="https://top.gg/bot/1388527324542144563">
-    <img alt="Davina Karamoy on top.gg" src="https://top.gg/api/widget/1388527324542144563.svg" />
-  </a>
-</p>
-
----
-
 ### 🔨 Tools I Use
 
 | Tool | Function |
