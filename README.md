@@ -14,42 +14,6 @@
 </p>
 
 ---
-### 🎯 Tentang Saya
-
-Halo! Saya Guss 👋  
-Saya suka pernah ngoding sampai berakir di rumah sakit (**karena saya menjenguk teman saya yang sedang sakit:v**)
-
-💡 Saya tidak ikut-ikutan tren, hanya bikin hal yang menurut saya menarik dan bermanfaat.
-
-🧑‍💻 Gunakan berbagai bahasa seperti **Python**, **PHP**, **JavaScript**, **C**, dan **TypeScript**, tergantung proyeknya.
-
-🌐 Fokus saya lebih ke fungsionalitas daripada tampilan. Yang penting cepat, bersih, dan berguna.
-
-📡 Kadang saya bikin proyek hanya untuk dibagikan ke teman atau biar lebih praktis saat online.
-
-🎮 Suka juga main game seperti Clash of Clans, dan sesekali bikin hal-hal terkait buat iseng.
-
-✨ Intinya: saya ngoding karena suka, bukan karena harus — ide jalan, langsung eksekusi.
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://tiktok.com/@oyy_gus"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://instagram.com/oyy_gus"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/oyy-gus"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://discord.gg/xZRx7WyBuD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://saweria.co/oyygus"><img src="https://img.shields.io/badge/Saweria-FFD700?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
-</p>
-
----
-
-### 💼 Current Projects
-
-- ✨ Neon-style portfolio with interactive background & particle system.
-- 🎵 TikTok Downloader — Unduh video tanpa watermark langsung dari browser.
-- 🤖 Davina Karamoy - Bot discord yang di rancang untuk beberapa fungsionalitas.
----
 
 ### ⚙️ Tech Stack I Use
 
@@ -88,16 +52,6 @@ Saya suka pernah ngoding sampai berakir di rumah sakit (**karena saya menjenguk 
 
 ---
 
-### 🧠 Fun Facts
-
-- 🤓 Pernah ngoding nonstop selama 12 jam hanya karena “seru banget”.
-- 🗿 Pernah menjadi IT di suatu perusahaan (**KERJA PAKSA**) kalau percaya sih, kalo engga berarti IQ kamu di atas rata"🗿
-- 🧩 Suka utak-atik apa saja, tapi bukan hubungan orang lain!
-- 🐍 Bisa bikin script Python kecil untuk scraping, automation, atau tools web.
-- ☕ Tetap ngoding walau udah ngantuk karena ide gak bisa ditunda.
-
----
-
 ### 🔨 Tools I Use
 
 | Tool | Function |
@@ -113,26 +67,9 @@ Saya suka pernah ngoding sampai berakir di rumah sakit (**karena saya menjenguk 
 
 ---
 
-### 🚀 Some Cool Repos
-
-- [`🛠️ tiktok-downloader`](https://github.com/oyy-gus/tiktok-downloader) — Downloader TikTok no watermark.
-- [`🎨 oyy-gus.github.io`](https://oyy-gus.github.io) — Portofolio neon interaktif.
-- [`🤖 Davina Karamoy`](https://discord.com/api/oauth2/authorize?client_id=1388527324542144563&permissions=8&scope=applications.commands%20bot) — Bot discord yang di rancang untuk beberapa fungsionalitas.
-
----
-
-### ⌨️ Typing Effect
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&width=500&lines=Hey+there!+I'm+Guss.;I+love+experimenting,+code+%26+community.;Let's+build+something+awesome+together!;Welcome+to+my+GitHub+world!" />
 </p>
-
----
-
-### 💬 Motto
-
-> "_Bikin sesuatu yang kecil, tapi bisa nyusahin orang lain tiap hari._"  
-> — by Guss 🚀
 
 ---
 
