@@ -33,12 +33,35 @@
 
 ---
 
+
+
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyy-gus&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oyy-gus&theme=radical&hide_border=false" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=oyy-gus&show_icons=true&theme=radical&hide_border=true&card_width=600"
+    width="100%"
+    alt="Statistik GitHub Guss"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=oyy-gus&theme=radical&hide_border=true"
+    width="100%"
+    alt="GitHub Streak Guss"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyy-gus&layout=normal&theme=radical&langs_count=5&card_width=600&hide_border=true"
+    width="100%"
+    alt="Bahasa Pemrograman Guss"
+  />
+</p>
+
+
 
 ---
 
